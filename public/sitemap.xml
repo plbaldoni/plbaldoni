@@ -68,7 +68,22 @@
   </url>
   
   <url>
+    <loc>/tags/chip-seq/</loc>
+    <lastmod>2019-05-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/baldoni2019improved/</loc>
+    <lastmod>2019-05-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/mixhmm/</loc>
+    <lastmod>2019-05-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
     <lastmod>2019-05-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -79,6 +94,16 @@
   
   <url>
     <loc>/publication/</loc>
+    <lastmod>2019-05-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-05-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/zimhmm/</loc>
     <lastmod>2019-05-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -150,36 +175,6 @@
   <url>
     <loc>/terms/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/internal-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>

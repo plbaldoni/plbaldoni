@@ -17,10 +17,6 @@ featured: false
 links:
 - name: Slides
   url: https://drive.google.com/open?id=1Z85FTkzSQdCk1t6-7S3MoDPOe4_umRG8
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/plbaldoni
 location: Colorado Convention Center
 math: true
 publishDate: "2019-07-29"

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ChIP=seq | Pedro Baldoni</title>
+    <link>/tags/chipseq/</link>
+      <atom:link href="/tags/chipseq/index.xml" rel="self" type="application/rss+xml" />
+    <description>ChIP=seq</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019, Pedro Baldoni</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>ChIP=seq</title>
+      <link>/tags/chipseq/</link>
+    </image>
+    
+    <item>
+      <title>ZIMHMM</title>
+      <link>/project/zimhmm/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/zimhmm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
