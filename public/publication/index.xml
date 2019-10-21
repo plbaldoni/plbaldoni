@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Pedro Baldoni</title>
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019, Pedro Baldoni</copyright><lastBuildDate>Mon, 13 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Publications</title>
+      <link>/publication/</link>
+    </image>
+    
+    <item>
+      <title>Improved detection of epigenomic marks with mixed‐effects hidden Markov models</title>
+      <link>/publication/baldoni2019improved/</link>
+      <pubDate>Mon, 13 May 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/baldoni2019improved/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exact Power of the Rank-Sum Test for a Continuous Variable</title>
+      <link>/publication/mollan2019exact/</link>
+      <pubDate>Mon, 14 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/mollan2019exact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

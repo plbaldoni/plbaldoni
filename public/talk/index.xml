@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Pedro Baldoni</title>
+    <link>/talk/</link>
+      <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019, Pedro Baldoni</copyright><lastBuildDate>Mon, 29 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>/talk/</link>
+    </image>
+    
+    <item>
+      <title>Detection and Classification of Changes in Protein-DNA Binding Activity with Applications in Diffuse ChIP-Seq Data</title>
+      <link>/talk/jsm2019/</link>
+      <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/jsm2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

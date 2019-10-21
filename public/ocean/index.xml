@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ocean | Pedro Baldoni</title>
+    <link>/ocean/</link>
+      <atom:link href="/ocean/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ocean</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019, Pedro Baldoni</copyright>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Ocean</title>
+      <link>/ocean/</link>
+    </image>
+    
+  </channel>
+</rss>

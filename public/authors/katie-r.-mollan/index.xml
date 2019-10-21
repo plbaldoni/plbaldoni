@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Katie R. Mollan | Pedro Baldoni</title>
+    <link>/authors/katie-r.-mollan/</link>
+      <atom:link href="/authors/katie-r.-mollan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Katie R. Mollan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019, Pedro Baldoni</copyright><lastBuildDate>Mon, 14 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Katie R. Mollan</title>
+      <link>/authors/katie-r.-mollan/</link>
+    </image>
+    
+    <item>
+      <title>Exact Power of the Rank-Sum Test for a Continuous Variable</title>
+      <link>/publication/mollan2019exact/</link>
+      <pubDate>Mon, 14 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/mollan2019exact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

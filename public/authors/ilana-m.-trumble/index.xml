@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ilana M. Trumble | Pedro Baldoni</title>
+    <link>/authors/ilana-m.-trumble/</link>
+      <atom:link href="/authors/ilana-m.-trumble/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ilana M. Trumble</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019, Pedro Baldoni</copyright><lastBuildDate>Mon, 14 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Ilana M. Trumble</title>
+      <link>/authors/ilana-m.-trumble/</link>
+    </image>
+    
+    <item>
+      <title>Exact Power of the Rank-Sum Test for a Continuous Variable</title>
+      <link>/publication/mollan2019exact/</link>
+      <pubDate>Mon, 14 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/mollan2019exact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
