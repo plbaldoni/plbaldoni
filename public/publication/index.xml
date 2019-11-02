@@ -5,7 +5,7 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019, Pedro Baldoni</copyright><lastBuildDate>Mon, 13 May 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019, Pedro Baldoni</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Publications</title>
@@ -13,18 +13,50 @@
     </image>
     
     <item>
-      <title>Improved detection of epigenomic marks with mixed‐effects hidden Markov models</title>
-      <link>/publication/baldoni2019improved/</link>
-      <pubDate>Mon, 13 May 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/baldoni2019improved/</guid>
+      <title>Exact Power of the Rank-Sum Test for a Continuous Variable</title>
+      <link>/publication/mollan-2019-exact/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/mollan-2019-exact/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Exact Power of the Rank-Sum Test for a Continuous Variable</title>
-      <link>/publication/mollan2019exact/</link>
-      <pubDate>Mon, 14 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/mollan2019exact/</guid>
+      <title>Improved Detection of Epigenomic Marks With Mixed Effects Hidden Markov Models</title>
+      <link>/publication/baldoni-2019-improved/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/baldoni-2019-improved/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantification of the latent HIV-1 reservoir using ultra deep sequencing and primer ID in a viral outgrowth assay</title>
+      <link>/publication/lee-2017-quantification/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/lee-2017-quantification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SLDAssay: a software package and web tool for analyzing limiting dilution assays</title>
+      <link>/publication/trumble-2017-sldassay/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/trumble-2017-sldassay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Corrigendum: The differential short-and long-term effects of HIV-1 latency-reversing agents on T cell function</title>
+      <link>/publication/clutton-2016-corrigendum/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/clutton-2016-corrigendum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The differential short-and long-term effects of HIV-1 latency-reversing agents on T cell function</title>
+      <link>/publication/clutton-2016-differential/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/clutton-2016-differential/</guid>
       <description></description>
     </item>
     

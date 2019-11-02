@@ -12,7 +12,7 @@
 theme = "my_theme"
 
 # Enable users to switch between day and night mode?
-day_night = false
+day_night = true
 
 # Override the theme's font set (optional).
 #   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
@@ -90,11 +90,11 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "135 Dauer Drive", city = "Chapel Hill", region = "NC", postcode = "27599", country = "United States", country_code = "US"}
+# address = {street = "135 Dauer Drive", city = "Chapel Hill", region = "NC", postcode = "27599", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "35.906139", longitude = "-79.0543317"}
+# coordinates = {latitude = "35.906139", longitude = "-79.0543317"}
 
 # Directions for visitors to locate you.
 directions = ""
@@ -243,7 +243,7 @@ plugins_js  = []
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine = 2
+  engine = 0
   api_key = ""
   zoom = 15
 

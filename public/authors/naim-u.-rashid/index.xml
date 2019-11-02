@@ -5,7 +5,7 @@
     <link>/authors/naim-u.-rashid/</link>
       <atom:link href="/authors/naim-u.-rashid/index.xml" rel="self" type="application/rss+xml" />
     <description>Naim U. Rashid</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019, Pedro Baldoni</copyright><lastBuildDate>Mon, 29 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019, Pedro Baldoni</copyright><lastBuildDate>Tue, 26 Mar 2019 09:30:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Naim U. Rashid</title>
@@ -13,18 +13,10 @@
     </image>
     
     <item>
-      <title>Detection and Classification of Changes in Protein-DNA Binding Activity with Applications in Diffuse ChIP-Seq Data</title>
-      <link>/talk/jsm2019/</link>
-      <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/talk/jsm2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Improved detection of epigenomic marks with mixed‐effects hidden Markov models</title>
-      <link>/publication/baldoni2019improved/</link>
-      <pubDate>Mon, 13 May 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/baldoni2019improved/</guid>
+      <title>Improved Detection of Epigenetic Marks with Mixed Effects Hidden Markov Models</title>
+      <link>/talk/enar2019/</link>
+      <pubDate>Tue, 26 Mar 2019 09:30:00 +0000</pubDate>
+      <guid>/talk/enar2019/</guid>
       <description></description>
     </item>
     

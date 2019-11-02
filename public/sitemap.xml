@@ -19,37 +19,47 @@
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-13T10:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/jsm2019/</loc>
-    <lastmod>2019-07-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/joseph-g.-ibrahim/</loc>
-    <lastmod>2019-07-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/naim-u.-rashid/</loc>
-    <lastmod>2019-07-29T00:00:00+00:00</lastmod>
+    <loc>/talk/lccc2020/</loc>
+    <lastmod>2020-03-13T10:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-13T10:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/pedro-l.-baldoni/</loc>
-    <lastmod>2019-07-29T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-13T10:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/talk/</loc>
-    <lastmod>2019-07-29T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-13T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/daniela-sotres-alvarez/</loc>
+    <lastmod>2019-11-25T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/hchs2019_2/</loc>
+    <lastmod>2019-11-25T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/pamela-a.-shaw/</loc>
+    <lastmod>2019-11-25T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/jsm2019/</loc>
+    <lastmod>2019-07-29T10:35:00+00:00</lastmod>
   </url>
   
   <url>
@@ -63,17 +73,7 @@
   </url>
   
   <url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2019-05-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/chip-seq/</loc>
-    <lastmod>2019-05-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/baldoni2019improved/</loc>
     <lastmod>2019-05-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -88,16 +88,6 @@
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2019-05-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2019-05-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/</loc>
     <lastmod>2019-05-13T00:00:00+00:00</lastmod>
   </url>
@@ -105,6 +95,26 @@
   <url>
     <loc>/project/zimhmm/</loc>
     <lastmod>2019-05-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/hchs2019_1/</loc>
+    <lastmod>2019-05-10T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/hchs2019/</loc>
+    <lastmod>2019-04-29T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jianwen-cai/</loc>
+    <lastmod>2019-04-29T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/enar2019/</loc>
+    <lastmod>2019-03-26T09:30:00+00:00</lastmod>
   </url>
   
   <url>
@@ -128,43 +138,73 @@
   </url>
   
   <url>
-    <loc>/publication_types/3/</loc>
-    <lastmod>2019-01-14T00:00:00+00:00</lastmod>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/camden-p.-bay/</loc>
-    <lastmod>2019-01-14T00:00:00+00:00</lastmod>
+    <loc>/authors/camden-p-bay/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/mollan2019exact/</loc>
-    <lastmod>2019-01-14T00:00:00+00:00</lastmod>
+    <loc>/publication/mollan-2019-exact/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/ilana-m.-trumble/</loc>
-    <lastmod>2019-01-14T00:00:00+00:00</lastmod>
+    <loc>/authors/ilana-m-trumble/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/katie-r.-mollan/</loc>
-    <lastmod>2019-01-14T00:00:00+00:00</lastmod>
+    <loc>/publication/baldoni-2019-improved/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/michael-g.-hudgens/</loc>
-    <lastmod>2019-01-14T00:00:00+00:00</lastmod>
+    <loc>/authors/joseph-g-ibrahim/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/katie-r-mollan/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/michael-g-hudgens/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/naim-u-rashid/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/orlando-ferrer/</loc>
-    <lastmod>2019-01-14T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/sarah-a.-reifeis/</loc>
-    <lastmod>2019-01-14T00:00:00+00:00</lastmod>
+    <loc>/authors/pedro-l-baldoni/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/sarah-a-reifeis/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -175,6 +215,76 @@
   <url>
     <loc>/terms/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/enar2018/</loc>
+    <lastmod>2018-03-26T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/jsm2017/</loc>
+    <lastmod>2017-08-02T11:35:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/enar2017/</loc>
+    <lastmod>2017-03-13T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/andrew-g-allmon/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/david-m-margolis/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/ean-spielvogel/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/joseph-rigdon/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/nancie-m-archin/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/owen-francis/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/lee-2017-quantification/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/ronald-swanstrom/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/shuntai-zhou/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/trumble-2017-sldassay/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/sook-kyung-lee/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -195,6 +305,76 @@
   <url>
     <loc>/categories/demo/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/cfar2016/</loc>
+    <lastmod>2016-01-13T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/others/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/a-kashuba/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/clutton-2016-corrigendum/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/g-clutton/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/j-kirchherr/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jd-kuruc/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/kara-cox/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/kr-mollan/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/pl-baldoni/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/r-barnard/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/clutton-2016-differential/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/w-newhard/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/y-xu/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>

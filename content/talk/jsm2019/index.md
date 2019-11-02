@@ -7,19 +7,17 @@ address:
 all_day: false
 authors:
 - Pedro L. Baldoni
-- Naim U. Rashid
-- Joseph G. Ibrahim
-date: "2019-07-29"
-date_end: "2030-06-01T15:00:00Z"
+date: "2019-07-29T10:35:00Z"
+date_end: "2019-07-29T10:50:00Z"
 event: JSM 2019
 event_url: https://ww2.amstat.org/meetings/jsm/2019
 featured: false
 links:
 - name: Slides
   url: https://drive.google.com/open?id=1Z85FTkzSQdCk1t6-7S3MoDPOe4_umRG8
-location: Colorado Convention Center
+location: JSM 2019
 math: true
-publishDate: "2019-07-29"
+publishDate: "2019-07-29T10:35:00Z"
 slides: 
 summary: 
 tags: []

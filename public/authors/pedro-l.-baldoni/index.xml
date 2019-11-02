@@ -5,7 +5,7 @@
     <link>/authors/pedro-l.-baldoni/</link>
       <atom:link href="/authors/pedro-l.-baldoni/index.xml" rel="self" type="application/rss+xml" />
     <description>Pedro L. Baldoni</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019, Pedro Baldoni</copyright><lastBuildDate>Mon, 29 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019, Pedro Baldoni</copyright><lastBuildDate>Fri, 13 Mar 2020 10:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Pedro L. Baldoni</title>
@@ -13,26 +13,82 @@
     </image>
     
     <item>
+      <title>Computational Medicine Research Meetings</title>
+      <link>/talk/lccc2020/</link>
+      <pubDate>Fri, 13 Mar 2020 10:00:00 +0000</pubDate>
+      <guid>/talk/lccc2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HCHS/SOL Statistics Committee Meetings</title>
+      <link>/talk/hchs2019_2/</link>
+      <pubDate>Mon, 25 Nov 2019 15:00:00 +0000</pubDate>
+      <guid>/talk/hchs2019_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Detection and Classification of Changes in Protein-DNA Binding Activity with Applications in Diffuse ChIP-Seq Data</title>
       <link>/talk/jsm2019/</link>
-      <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 29 Jul 2019 10:35:00 +0000</pubDate>
       <guid>/talk/jsm2019/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Improved detection of epigenomic marks with mixed‐effects hidden Markov models</title>
-      <link>/publication/baldoni2019improved/</link>
-      <pubDate>Mon, 13 May 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/baldoni2019improved/</guid>
+      <title>HCHS/SOL Dietary Scientific Interest Group Meetings</title>
+      <link>/talk/hchs2019_1/</link>
+      <pubDate>Fri, 10 May 2019 15:00:00 +0000</pubDate>
+      <guid>/talk/hchs2019_1/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Exact Power of the Rank-Sum Test for a Continuous Variable</title>
-      <link>/publication/mollan2019exact/</link>
-      <pubDate>Mon, 14 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/mollan2019exact/</guid>
+      <title>HCHS/SOL Statistics Committee Meetings</title>
+      <link>/talk/hchs2019/</link>
+      <pubDate>Mon, 29 Apr 2019 15:00:00 +0000</pubDate>
+      <guid>/talk/hchs2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improved Detection of Epigenetic Marks with Mixed Effects Hidden Markov Models</title>
+      <link>/talk/enar2019/</link>
+      <pubDate>Tue, 26 Mar 2019 09:30:00 +0000</pubDate>
+      <guid>/talk/enar2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Statistical Method for the Analysis of Multiple ChIP-Seq Datasets</title>
+      <link>/talk/enar2018/</link>
+      <pubDate>Mon, 26 Mar 2018 09:00:00 +0000</pubDate>
+      <guid>/talk/enar2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Statistical Method for the Analysis of Multiple ChIP-Seq Data Sets</title>
+      <link>/talk/jsm2017/</link>
+      <pubDate>Wed, 02 Aug 2017 11:35:00 +0000</pubDate>
+      <guid>/talk/jsm2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Statistical Method for the Analysis of Multiple ChIP-seq Datasets</title>
+      <link>/talk/enar2017/</link>
+      <pubDate>Mon, 13 Mar 2017 09:00:00 +0000</pubDate>
+      <guid>/talk/enar2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical methods for HIV-1 reservoir estimation in viral outgrowth assays</title>
+      <link>/talk/cfar2016/</link>
+      <pubDate>Wed, 13 Jan 2016 09:00:00 +0000</pubDate>
+      <guid>/talk/cfar2016/</guid>
       <description></description>
     </item>
     
