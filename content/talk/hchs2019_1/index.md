@@ -19,7 +19,7 @@ publishDate: "2019-05-10T15:00:00Z"
 slides: 
 summary: 
 tags: []
-title: HCHS/SOL Dietary Scientific Interest Group Meetings
+title: Statistical Strategies for the Analysis of Diet-Disease Models that Correct for Error-Prone Exposures
 url_code: ""
 url_pdf: ""
 url_slides: ""

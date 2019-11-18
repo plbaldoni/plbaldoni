@@ -18,7 +18,7 @@ publishDate: "2019-04-29T15:00:00Z"
 slides: 
 summary: 
 tags: []
-title: HCHS/SOL Statistics Committee Meetings
+title: Calculating and Comparing Age Standardized Cumulative Incidence of Hypertension across Hispanic/Latino Background Groups
 url_code: ""
 url_pdf: ""
 url_slides: ""

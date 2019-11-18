@@ -19,7 +19,7 @@ publishDate: "2019-10-22T15:00:00Z"
 slides: 
 summary: 
 tags: []
-title: HCHS/SOL Statistics Committee Meetings
+title: On the use of Regression Calibration in a Complex Survey Design with Application to the Hispanic Community Health Study/Study of Latinos
 url_code: ""
 url_pdf: ""
 url_slides: ""
