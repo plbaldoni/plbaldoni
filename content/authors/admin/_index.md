@@ -51,3 +51,4 @@ During my doctoral studies, I have collaborated in the [Hispanic Community Healt
 
 I graduated from [University of Campinas](https://www.unicamp.br/unicamp/english), Brazil, with BSc and MSc degrees in statistics in 2012 and 2014, respectively, under the direction of [Dr. Hildete Pinheiro](https://bv.fapesp.br/en/pesquisador/90874/hildete-prisco-pinheiro/). After a period abroad at [University of Aarhus](https://international.au.dk/), Denmark, my MSc thesis concerned the application of generalized linear mixed models to study genetic and environmental factors associated with the prevalence of metritis in Danish Holstein cows.
 
+{{<figure src="http://ghchart.rshah.org/plbaldoni" alt="plbaldoni's Github chart" >}}
