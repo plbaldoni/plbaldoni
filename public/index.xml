@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Pedro Baldoni</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019, Pedro Baldoni</copyright><lastBuildDate>Fri, 13 Mar 2020 10:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019, Pedro Baldoni</copyright><lastBuildDate>Sat, 01 Aug 2020 10:35:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Pedro Baldoni</title>
@@ -80,6 +80,22 @@
 
 &lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Efficient Detection and Classification of Epigenomic Changes Under Multiple Conditions</title>
+      <link>/talk/jsm2020/</link>
+      <pubDate>Sat, 01 Aug 2020 10:35:00 +0000</pubDate>
+      <guid>/talk/jsm2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Detection and Classification of Epigenomic Changes Under Multiple Conditions</title>
+      <link>/talk/enar2020/</link>
+      <pubDate>Sun, 22 Mar 2020 10:35:00 +0000</pubDate>
+      <guid>/talk/enar2020/</guid>
+      <description></description>
     </item>
     
     <item>
