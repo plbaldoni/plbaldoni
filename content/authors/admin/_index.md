@@ -48,7 +48,7 @@ superuser: true
 # - Visitors
 ---
 
-I am a PhD candidate in the [Department of Biostatistics](https://sph.unc.edu/bios/biostatistics/) at the [University of North Carolina at Chapel Hill](https://www.unc.edu/) and recipient of the [University Cancer Research Fund](https://unclineberger.org/ucrf/) award. My dissertation advisers are [Dr. Naim Rashid](https://sph.unc.edu/adv_profile/naim-rashid-phd/) and [Dr. Joseph Ibrahim](https://sph.unc.edu/adv_profile/joseph-g-ibrahim-phd/), with whom I develop statistical methods for the analysis of high-throughput sequencing epigenomic assays.
+I am a PhD candidate in the [Department of Biostatistics](https://sph.unc.edu/bios/biostatistics/) at the [University of North Carolina at Chapel Hill](https://www.unc.edu/) and recipient of the [University Cancer Research Fund](https://unclineberger.org/ucrf/) award. My dissertation advisers are [Dr. Naim Rashid](https://sph.unc.edu/adv_profile/naim-rashid-phd/) and [Dr. Joseph Ibrahim](https://sph.unc.edu/adv_profile/joseph-g-ibrahim-phd/), with whom I develop statistical methods for the analysis of high-throughput sequencing epigenomic assays. Currently, my research is focused on the methodological development of tools to analyze single-cell epigenomic data.
 
 During my doctoral studies, I have collaborated in the [Hispanic Community Health Study / Study of Latinos (HCHS/SOL)](https://sites.cscc.unc.edu/hchs/). As a graduate research assistant, my research focused on the development and application of statistical methods to analyze data from the HCHS/SOL under complex survey design settings.
 
