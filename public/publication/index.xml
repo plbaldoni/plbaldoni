@@ -5,7 +5,7 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020, Pedro Baldoni</copyright><lastBuildDate>Wed, 04 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020, Pedro Baldoni</copyright><lastBuildDate>Wed, 04 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Publications</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Efficient Detection and Classification of Epigenomic Changes Under Multiple Conditions</title>
-      <link>/publication/baldoni-2019-efficient/</link>
-      <pubDate>Wed, 04 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/baldoni-2019-efficient/</guid>
+      <title>Precise and accurate power of the rank-sum test for a continuous outcome</title>
+      <link>/publication/mollan-2020-precise/</link>
+      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/mollan-2020-precise/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Exact Power of the Rank-Sum Test for a Continuous Variable</title>
-      <link>/publication/mollan-2019-exact/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/mollan-2019-exact/</guid>
+      <title>Efficient Detection and Classification of Epigenomic Changes Under Multiple Conditions</title>
+      <link>/publication/baldoni-2019-efficient/</link>
+      <pubDate>Wed, 04 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/baldoni-2019-efficient/</guid>
       <description></description>
     </item>
     
