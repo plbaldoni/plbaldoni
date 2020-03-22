@@ -21,7 +21,7 @@ tags: []
 title: 	Efficient Detection and Classification of Epigenomic Changes Under Multiple Conditions
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "https://drive.google.com/open?id=1VKpteFGMdaIgHv5SygMa_ZEi6yOWuKJF"
 url_video: ""
 ---
 
