@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -13,11 +13,6 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2020-08-01T10:35:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/pedro-l.-baldoni/</loc>
     <lastmod>2020-08-01T10:35:00+00:00</lastmod>
   </url>
@@ -25,6 +20,11 @@
   <url>
     <loc>/talk/</loc>
     <lastmod>2020-08-01T10:35:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/unccompmed2020/</loc>
+    <lastmod>2020-04-17T10:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -205,6 +205,11 @@
   <url>
     <loc>/publication/baldoni-2019-improved/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
   
   <url>
