@@ -4,9 +4,9 @@ authors:
 bio: My research interests include statistics, computational biology, and genomics.
 education:
   courses:
-  - course: PhD candidate in Biostatistics
+  - course: PhD in Biostatistics
     institution: University of North Carolina at Chapel Hill
-    year: 2014-present
+    year: 2020
   - course: MSc in Statistics
     institution: University of Campinas, Brazil
     year: 2014
@@ -16,13 +16,13 @@ education:
 email: "mailto:pedrobaldoni@gmail.com"
 interests:
 - Statistics
-- Computational Biology
-- Genomics
+- Proteomics
+- Bioinformatics
 name: Pedro Baldoni
 organizations:
-- name: Department of Biostatistics, University of North Carolina at Chapel Hill
-  url: "https://sph.unc.edu/bios/biostatistics/"
-role: PhD candidate
+- name: Walter and Eliza Hall Institute of Medical Research
+  url: "https://www.wehi.edu.au/research/research-fields/bioinformatics"
+role: Postdoctoral Fellow
 social:
 - icon: envelope
   icon_pack: fas
@@ -48,10 +48,8 @@ superuser: true
 # - Visitors
 ---
 
-I am a PhD candidate in the [Department of Biostatistics](https://sph.unc.edu/bios/biostatistics/) at the [University of North Carolina at Chapel Hill](https://www.unc.edu/) and recipient of the [University Cancer Research Fund](https://unclineberger.org/ucrf/) award. My dissertation advisers are [Dr. Naim Rashid](https://sph.unc.edu/adv_profile/naim-rashid-phd/) and [Dr. Joseph Ibrahim](https://sph.unc.edu/adv_profile/joseph-g-ibrahim-phd/), with whom I develop statistical methods for the analysis of high-throughput sequencing epigenomic assays. Currently, my research is focused on the methodological development of tools to analyze single-cell epigenomic data.
+I am currently a Postdoctoral Fellow at the [Walter and Eliza Hall Institute of Medical Research](https://www.wehi.edu.au/) with joint appointment between the [Colonial Foundation Healthy Ageing Centre](http://colonialfoundation.org.au/) (CFHAC) and the [Bioinformatics Division](https://www.wehi.edu.au/about-structure/scientific-divisions/bioinformatics). At WEHI, I develop novel statistical bioinformatic methods for processing, interpreting, and analyzing large-scale proteomic datasets from the latest time-of-flight mass spec technology. I collaborate with the clinical partners of the CFHAC to facilitate biological discoveries related to ageing and disease.
 
-During my doctoral studies, I have collaborated in the [Hispanic Community Health Study / Study of Latinos (HCHS/SOL)](https://sites.cscc.unc.edu/hchs/). As a graduate research assistant, my research focused on the development and application of statistical methods to analyze data from the HCHS/SOL under complex survey design settings.
-
-I graduated from [University of Campinas](https://www.unicamp.br/unicamp/english), Brazil, with BSc and MSc degrees in statistics in 2012 and 2014, respectively, under the direction of [Dr. Hildete Pinheiro](https://bv.fapesp.br/en/pesquisador/90874/hildete-prisco-pinheiro/). After a period abroad at [University of Aarhus](https://international.au.dk/), Denmark, my MSc thesis concerned the application of generalized linear mixed models to study genetic and environmental factors associated with the prevalence of metritis in Danish Holstein cows.
+In 2020, I graduated from the PhD program in [Biostatistics](https://sph.unc.edu/bios/biostatistics/) from the [University of North Carolina at Chapel Hill](https://www.unc.edu/). During my doctoral studies, I have worked on the field of epigenomics developing statistical methods for the analysis of high-throughput sequencing epigenomic assays. I have been collaborating in the [Hispanic Community Health Study / Study of Latinos (HCHS/SOL)](https://sites.cscc.unc.edu/hchs/) by developing and applying statistical methods to analyze data from the HCHS/SOL under complex survey design settings.
 
 {{<figure src="http://ghchart.rshah.org/4B9CD3/plbaldoni" alt="plbaldoni's Github chart" >}}
