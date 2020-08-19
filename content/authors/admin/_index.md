@@ -5,7 +5,7 @@ bio: My research interests include statistics, computational biology, and genomi
 education:
   courses:
   - course: PhD in Biostatistics
-    institution: University of North Carolina at Chapel Hill
+    institution: University of North Carolina at Chapel Hill, United States
     year: 2020
   - course: MSc in Statistics
     institution: University of Campinas, Brazil
